@@ -1,4 +1,4 @@
-package main
+package fileserver
 
 const (
 	ERR_IS_EMPTY    = 400
