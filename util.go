@@ -1,10 +1,7 @@
 package fileserver
 
 import (
-	"fmt"
-	log "github.com/alecthomas/log4go"
 	"github.com/gin-gonic/gin/json"
-	"io"
 	"net/http"
 )
 
